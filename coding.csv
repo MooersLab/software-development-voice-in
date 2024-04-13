@@ -50,7 +50,7 @@ expand JVM,Java Virtual Machine
 expand KPI,Key Performance Indicators
 expand LoB,Localtiy of Behaviour
 expand LOC,Lines of Code
-expand LSP,Language Server Protocol,
+expand LSP,Language Server Protocol
 expand LSP,Liskov Substitution Principle
 expand MDA,Model-Driven Architecture
 expand OCP,Open/Closed Principle
