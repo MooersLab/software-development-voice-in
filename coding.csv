@@ -1,0 +1,99 @@
+expand AJAX,Asynchronous JavaScript and XML
+expand AP,Action Point
+expand API,Application Programming Interface
+expand ASP,Active Server Pages
+expand AT,Acceptance Testing
+expand BCC,Blind Carbon Copy
+expand BDD,Behaviour Driven Development
+expand BDUF,Big Design Up Front
+expand CC,Carbon Copy
+expand CI,continuous integration
+expand CLI,command-line interface
+expand CMS,Content Management System
+expand COB,Close of Business
+expand COBOL,Common Business-Oriented Langauge
+expand COM,Component Object Model
+expand CSS,Cascading Style Sheets
+expand DAO,Data Access Object
+expand DBA,Database Adminitrator
+expand DDL,Data Definition Language
+expand DFD,Data Flow Diagrams
+expand DIP,Dependency Inversion Principle
+expand DML,Data Manipulation Language
+expand DOM,Document Object Model
+expand DRY,Don't Repeat Yourself
+expand DW,Data Warehouse
+expand EMO,End of Message
+expand EOD,End of Day
+expand EOF,End of File
+expand EOL,End of Line
+expand ERD,Entity Relation Diagram
+expand FDD,Feature Driven Development
+expand FIFO,First In First Out
+expand FORTRAN,Formula Translating System
+expand FSO,File System Object
+expand GUI,graphical user interface
+expand GUID,Global Unique Identifier
+expand HTML,HyperText Markup Language
+expand IDK,I do not know
+expand IMHO,In My Humble Opinion
+expand ISP,Interface Segregation Principle
+expand J2SE,Java 2 Standard Edition
+expand JDBC,Java Database Connectivity
+expand JDK,Java Development Kit
+expand JFC,Java Foundation Classes
+expand JRE,Java Runtime Environment
+expand js,JavaScript
+expand JSON,JavaScript Object Notation
+expand JSP,JavaServer Pages
+expand JVM,Java Virtual Machine
+expand KISS,Keep it simple, Stupid!
+expand KPI,Key Performance Indicators
+expand LoB,Localtiy of Behaviour
+expand LOC,Lines of Code
+expand LSP,Language Server Protocol,
+expand LSP,Liskov Substitution Principle
+expand MDA,Model-Driven Architecture
+expand OCP,Open/Closed Principle
+expand OOP,Object Oriented Programming
+expand ORM,Object Relational Mapping 
+expand PFA,Please Find Attached
+expand RAD,Rapid Application Development
+expand regex,Regular Expression
+expand REPL,Read–Eval–Print Loop
+expand REST,Representational State Transfer
+expand RFP,Request For Proposal
+expand RFQ,Request For Quote
+expand ROI,Return On Investment
+expand RUP,Rational Unified Process 
+expand SCM,Source Code Management
+expand SDK,Software Development Kit
+expand SEO,Search Engine Optimisation
+expand SIT,Systems Integration Testing
+expand SLA,Service Level Agreement
+expand SME,Subject Matter Expert
+expand SOAP,Simple Object Access Protocol
+expand SoC,Separation of Concerns
+expand SOE,Standard Operating Environment
+expand SOLID,'Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion'
+expand SOP,Standard Operating Procedure
+expand SQL,Structured Query Language
+expand SQLXML,SQL Server XML
+expand SRP,Single Responsibility Principle
+expand SSO,Single Sign On
+expand TBC,To Be Confirmed
+expand TDD,Test-Driven Development
+expand UI,user interface
+expand UML,Unified Modelling Language
+expand UX,User Experience
+expand WFM,Working From Home
+expand WRT,With Respect To
+expand WYSIWYG,What You See Is What You Get
+expand XAML,Extensible Application Markup Language
+expand XHTML,Extensible Hyptertext Markup Language
+expand XML,Extensible Markup Language
+expand XP,Extreme Programming
+expand XSD,XML Schema Definition
+expand XSL,Extensible Stylesheet Language
+expand YAGNI,You ain't gonna need it
+expand YTD,Year To Date
