@@ -47,7 +47,7 @@ expand js,JavaScript
 expand JSON,JavaScript Object Notation
 expand JSP,JavaServer Pages
 expand JVM,Java Virtual Machine
-expand KISS,'Keep it simple, Stupid!'
+expand KISS,"Keep it simple, Stupid!"
 expand KPI,Key Performance Indicators
 expand LoB,Localtiy of Behaviour
 expand LOC,Lines of Code
@@ -75,7 +75,7 @@ expand SME,Subject Matter Expert
 expand SOAP,Simple Object Access Protocol
 expand SoC,Separation of Concerns
 expand SOE,Standard Operating Environment
-expand SOLID,'Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion'
+expand SOLID,"Single responsibility, Open-closed, Liskov substitution, Interface segregation, Dependency inversion"
 expand SOP,Standard Operating Procedure
 expand SQL,Structured Query Language
 expand SQLXML,SQL Server XML
