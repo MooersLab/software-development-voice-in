@@ -8,6 +8,6 @@ These voice snippets ensure that you use the correct expansion because sometimes
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
-| Version 0.1 |  Added initial 99 acronyms.                                                                                                                | 2024 April 13        |
+| Version 0.1 |  Added initial 100 acronyms.                                                                                                                | 2024 April 13        |
 
 
