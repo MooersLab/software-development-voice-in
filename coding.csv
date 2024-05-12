@@ -22,7 +22,11 @@ expand DBA,Database Adminitrator
 expand DDL,Data Definition Language
 expand DFD,Data Flow Diagrams
 expand DIP,Dependency Inversion Principle
+expand DDL,Data Definition Language
+expand DQL,Data Query Language
+expand DCL,Data Control Language
 expand DML,Data Manipulation Language
+expand TCL,Transactional Control Language
 expand DOM,Document Object Model
 expand DRY,Do not Repeat Yourself
 expand DW,Data Warehouse
