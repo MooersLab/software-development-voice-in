@@ -35,6 +35,7 @@ expand EOD,End of Day
 expand EOF,End of File
 expand EOL,End of Line
 expand ERD,Entity Relation Diagram
+expand ESG,"environmental, social, and governance"
 expand FDD,Feature Driven Development
 expand FIFO,First In First Out
 expand FORTRAN,Formula Translating System
