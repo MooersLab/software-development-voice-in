@@ -39,6 +39,7 @@ expand FDD,Feature Driven Development
 expand FIFO,First In First Out
 expand FORTRAN,Formula Translating System
 expand FSO,File System Object
+expand FTP,File Transfer Protocol
 expand GUI,graphical user interface
 expand GUID,Global Unique Identifier
 expand HTML,HyperText Markup Language
@@ -55,7 +56,7 @@ expand JSON,JavaScript Object Notation
 expand JSP,JavaServer Pages
 expand JVM,Java Virtual Machine
 expand KPI,Key Performance Indicators
-expnd KISS,Keep It Simple Stupid
+expand KISS,Keep It Simple Stupid
 expand LoB,Localtiy of Behaviour
 expand LOC,Lines of Code
 expand LSP,Language Server Protocol
@@ -95,6 +96,7 @@ expand TCL,Transactional Control Language
 expand TDD,Test Driven Development
 expand UI,User Interface
 expand UML,Unified Modelling Language
+expand UTC,Coordinated Universal Time
 expand UX,User Experience
 expand WFM,Working From Home
 expand WRT,With Respect To
