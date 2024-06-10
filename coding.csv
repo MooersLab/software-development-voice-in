@@ -15,8 +15,9 @@ expand CMS,Content Management System
 expand COB,Close of Business
 expand COBOL,Common Business-Oriented Langauge
 expand COM,Component Object Model
-expand CRAN,Comprehensive R Archive Network
+expand CRAN,Comprehensive R Archive Network 
 expand CSS,Cascading Style Sheets
+expand CS,Computer Science
 expand DAO,Data Access Object
 expand DBA,Database Adminitrator
 expand DDL,Data Definition Language
@@ -83,6 +84,7 @@ expand SLA,Service Level Agreement
 expand SME,Subject Matter Expert
 expand SOAP,Simple Object Access Protocol
 expand SoC,Separation of Concerns
+expand SoTA,State of the Art
 expand SOE,Standard Operating Environment
 expand SOP,Standard Operating Procedure
 expand SQL,Structured Query Language
