@@ -26,7 +26,6 @@ expand DDL,Data Definition Language
 expand DQL,Data Query Language
 expand DCL,Data Control Language
 expand DML,Data Manipulation Language
-expand TCL,Transactional Control Language
 expand DOM,Document Object Model
 expand DRY,Do not Repeat Yourself
 expand DW,Data Warehouse
@@ -56,6 +55,7 @@ expand JSON,JavaScript Object Notation
 expand JSP,JavaServer Pages
 expand JVM,Java Virtual Machine
 expand KPI,Key Performance Indicators
+expnd KISS,Keep It Simple Stupid
 expand LoB,Localtiy of Behaviour
 expand LOC,Lines of Code
 expand LSP,Language Server Protocol
@@ -65,6 +65,7 @@ expand OCP,Open/Closed Principle
 expand OOP,Object Oriented Programming
 expand ORM,Object Relational Mapping 
 expand PFA,Please Find Attached
+expand PKM,Personal Knowledge Management
 expand RAD,Rapid Application Development
 expand regex,Regular Expression
 expand REPL,Read–Eval–Print Loop
@@ -87,9 +88,12 @@ expand SQL,Structured Query Language
 expand SQLXML,SQL Server XML
 expand SRP,Single Responsibility Principle
 expand SSO,Single Sign On
+expand SWE,Software Engineer
 expand TBC,To Be Confirmed
 expand TDD,Test-Driven Development
-expand UI,user interface
+expand TCL,Transactional Control Language
+expand TDD,Test Driven Development
+expand UI,User Interface
 expand UML,Unified Modelling Language
 expand UX,User Experience
 expand WFM,Working From Home
@@ -102,4 +106,5 @@ expand XP,Extreme Programming
 expand XSD,XML Schema Definition
 expand XSL,Extensible Stylesheet Language
 expand YAGNI,You ain't gonna need it
+expand YoY,Year on Year
 expand YTD,Year To Date
