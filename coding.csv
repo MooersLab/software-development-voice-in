@@ -10,6 +10,7 @@ expand BDUF,Big Design Up Front
 expand CC,Carbon Copy
 expand CDN,Content Delivery Network
 expand CI,continuous integration
+expand CL,Common Lisp
 expand CLI,command-line interface
 expand CMS,Content Management System
 expand COB,Close of Business
@@ -39,6 +40,7 @@ expand ESG,"environmental, social, and governance"
 expand FDD,Feature Driven Development
 expand FIFO,First In First Out
 expand FORTRAN,Formula Translating System
+expand FP,Functional Programming
 expand FSO,File System Object
 expand FTP,File Transfer Protocol
 expand GUI,graphical user interface
